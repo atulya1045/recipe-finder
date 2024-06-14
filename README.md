@@ -1,9 +1,4 @@
 # recipe-finder
-Here is a README file for your Recipe Finder project, along with steps on how to upload it to GitHub:
-
----
-
-## Recipe Finder
 
 ### Project Overview
 The Recipe Finder is a web application designed to help users discover and explore various recipes from around the world. It allows users to search for recipes by name, browse recipes by category (such as vegetarian or non-vegetarian), and save their favorite recipes for future reference. The application provides a visually appealing interface with carousel displays of recipes from different cuisines, making it easy for users to navigate and explore culinary options.
@@ -118,5 +113,3 @@ Follow these steps to upload your project to GitHub:
    ```sh
    git push -u origin master
    ```
-
-After completing these steps, your project should be successfully uploaded to GitHub. You can then navigate to your repository on GitHub to view the files and README.
